@@ -1,5 +1,34 @@
-# Vue 3 + Vite
+# Employee Management Dashboard
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## 📌 Project Overview
+This is a web-based Employee Management Dashboard that allows users to manage employee records efficiently.  
+The application supports login authentication, employee CRUD operations, image upload, search, filter, and print functionality.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+The goal of this project is to demonstrate frontend engineering skills including state management, UI design, and user interaction workflows.
+
+---
+
+## 🛠 Tech Stack
+- React.js
+- Redux
+- JavaScript (ES6)
+- HTML5
+- CSS3
+- LocalStorage (for persistence)
+- Vite (for build and dev server)
+
+---
+
+## 🚀 Features
+- Login Authentication
+- Dashboard View
+- Add Employee
+- Edit Employee
+- Delete Employee
+- Upload Employee Image
+- Search & Filter Employees
+- Print Employee List
+
+---
+
+## 📂 Folder Structure
